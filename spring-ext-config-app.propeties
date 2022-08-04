@@ -1,0 +1,5 @@
+name: default prop
+postgres_url: jdbc:postgresql://db:5432/postgres
+postgres_usr: postgres
+postgres_psw: superpswd
+postgres_driver: org.postgresql.Driver
