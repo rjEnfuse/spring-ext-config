@@ -1,5 +1,5 @@
 name: default property
-postgres_url: jdbc:postgresql://db:5432/postgres
+postgres_url: jdbc:postgresql:3.87.124.142
 postgres_usr: postgres
 postgres_psw: superpswd
 postgres_driver: org.postgresql.Driver
